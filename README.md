@@ -42,6 +42,8 @@ Access the editor at http://localhost:5678
 
 ## Support
 
+needs help
+
 Need help? Our community forum is the place to get support and connect with other users:
 [community.n8n.io](https://community.n8n.io)
 
